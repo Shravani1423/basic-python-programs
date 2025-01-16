@@ -1,4 +1,2 @@
-set = {1,2,3,'a','b','c',1,1}
-print(set)
-print(type(set))
-
+a = {3,1,4,6,23,56,76}
+print(sum(a))
